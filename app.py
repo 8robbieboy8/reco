@@ -4,6 +4,7 @@ import requests
 import json
 from fetch import movie, movie_collection
 
+
 app = Flask(__name__)
 
 
